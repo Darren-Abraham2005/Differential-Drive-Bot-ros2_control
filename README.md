@@ -1,5 +1,5 @@
 ## 🔧 About the Repo 
-This repo contains the package for simulating differential drive robot using **ROS2 (Robot Operating System 2)** and **Gazebo** simulator. 
+This repo contains the package for simulating differential drive robot using **ROS2 (Robot Operating System 2)**  and **Gazebo** simulator. 
 
  **ROS2 Distro Used :** Jazzy Jalisco 
  
@@ -103,9 +103,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:
 
 
 
-
-
-
+[Differential_drive_robot.webm](https://github.com/user-attachments/assets/c84d1fda-0aeb-41a2-9b0d-619b86d65b51)
 
 
 
