@@ -5,7 +5,7 @@ This repo contains the package for simulating differential drive robot using **R
  
  **Gazebo Version:** Gazebo Harmonic 
  
- **Ubuntu Version Required:** Ubuntu 24 
+ **Ubuntu Version Required:** Ubuntu 24.04 
  
 ### What’s ROS2?
 The Robot Operating System 2 (ROS 2) is an open-source middleware framework designed to simplify the development of complex robotic systems. Despite the name, it is not a traditional operating system but a collection of software libraries and tools that enable different parts of a robot (nodes) to communicate reliably in real-time. By providing standardized communication protocols like Topics, Services, and Actions, ROS 2 allows developers to build modular applications where sensors, controllers, and AI algorithms can interact seamlessly across different hardware platforms.
