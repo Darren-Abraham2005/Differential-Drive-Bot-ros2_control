@@ -19,7 +19,7 @@ For the most up-to-date information on the latest Long-Term Support (LTS) releas
 👉 [ROS 2 Jazzy Jalisco Documentation](https://docs.ros.org/en/jazzy/index.html)
 
 ## 📦 Package overview
-The name of the package is diffdrive_description. Given below is the package structure. This package uses **ros2_control** which has built in diff_drive_controller  for controlling differential drive robot instead of the gazebo differential drive plugin
+The name of the package is diffdrive_description. Given below is the package structure. This package uses **ros2_control** which has built in **diff_drive_controller**  for controlling **differential drive robot** instead of the gazebo differential drive plugin
 <br/>
 ```text
 diffdrive_description
